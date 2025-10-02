@@ -14,3 +14,10 @@ Sở thích:
 - Thể thao
 - Ăn uống
 - Âm nhạc 
+# 
+Kế hoạch học tập:
+- Học tập để hiểu rõ kiến thức về git và github
+- Thực hành viết code hằng ngày để nâng cao kỹ năng lập trình và ghi nhớ
+- Tham gia các dự án làm việc nhóm
+- Tim hiểu về các framework
+- Đạt các chỉ tiêu trong học tập 
