@@ -1,0 +1,5 @@
+# Tính năng mới: Quản lý ghi chú học tập:
+- Cho phép người dùng thêm ghi chú mỗi ngày.
+- Ghi chú sẽ được lưu lại theo ngày và tuần.
+- Có thể tìm kiếm ghi chú cũ dễ dàng.
+- Tích hợp với hệ thông quản lý kế hoặch học tập. 
